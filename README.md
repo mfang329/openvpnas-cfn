@@ -21,7 +21,7 @@ ssh -I ~/.ssh/<PRIVATEKEY> openvpnas@54.208.124.206 'cat opvnpasswd'
 Once you have the key, you may enter the OpenVpn AS website as such,
 [OPENVPNAS ](https://54.208.124.206/admin/)
 
-```Note: this is a temporary server, the above IP will only exist for the duration of exercise.```
+```Note: this is a temporary server, the above IP will only exist for the duration of this exercise. The AWS resources in this page will self destruct after few days. Nothing will be kept! ```
 
 
 ## Install the OPENVPN AS from scratch
