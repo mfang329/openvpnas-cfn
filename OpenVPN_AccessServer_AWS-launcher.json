@@ -168,31 +168,31 @@
                    "IpProtocol":"tcp",
                    "FromPort":"943",
                    "ToPort":"943",
-                   "CidrIp":"0.0.0.0/0"
+                   "CidrIp":"172.91.136.235/32"
                 },
                 {
                    "IpProtocol":"tcp",
                    "FromPort":"945",
                    "ToPort":"945",
-                   "CidrIp":"0.0.0.0/0"
+                   "CidrIp":"172.91.136.235/32"
                 },
                 {
                    "IpProtocol":"tcp",
                    "FromPort":"443",
                    "ToPort":"443",
-                   "CidrIp":"0.0.0.0/0"
+                   "CidrIp":"172.91.136.235/32"
                 },
                 {
                    "IpProtocol":"udp",
                    "FromPort":"1194",
                    "ToPort":"1194",
-                   "CidrIp":"0.0.0.0/0"
+                   "CidrIp":"172.91.136.235/32"
                 },
                 {
                    "IpProtocol":"tcp",
                    "FromPort":"22",
                    "ToPort":"22",
-                   "CidrIp":"0.0.0.0/0"
+                   "CidrIp":"172.91.136.235/32"
                 }
              ],
              "VpcId":{
